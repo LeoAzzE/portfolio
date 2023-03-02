@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #191a1d;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    scroll-behavior: smooth;
+}
